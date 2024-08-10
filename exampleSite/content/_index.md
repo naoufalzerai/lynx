@@ -1,5 +1,5 @@
 ---
-description: "This is a demo of the Lynx theme for Hugo."
+description: "Botler - Bot marketplace."
 ---
 
-View the readme or check out all the link styles available using the links below.
+Work in progress, but don't miss out what we're cooking, check links below.

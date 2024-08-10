@@ -1,12 +1,12 @@
 theme = "lynx"
-title = "Lynx"
+title = "Botler"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  name = "Lynx"
-  headline = "Bots in bulk."
+  name = "Botler"
+  headline = "All the bots you need."
   image = "logo.jpg"
   links = [
     { link = { href = "https://v1.botler.net/blogs", text = "Codes", icon = "github" } },
