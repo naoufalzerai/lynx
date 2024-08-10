@@ -1,9 +1,9 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://https://botler.net/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Botler - comming soon"
+copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
