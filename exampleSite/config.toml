@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "All the bots you need."
   image = "logo.jpg"
   links = [
-    { link = { href = "https://v1.botler.net/blogs", text = "Codes", icon = "github" } },
+    { link = { href = "https://v1.botler.net/blogs", text = "Blog", icon = "link-stack-exchange" } },
     { github = "https://git.botler.net" },
     { x = "https://x.com/username" },
     { telegram = "https://t.me/username" },
